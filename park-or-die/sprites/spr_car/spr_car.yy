@@ -24,7 +24,7 @@
   ],
   "name":"spr_car",
   "nineSlice":null,
-  "origin":0,
+  "origin":9,
   "parent":{
     "name":"Sprites",
     "path":"folders/Sprites.yy",
