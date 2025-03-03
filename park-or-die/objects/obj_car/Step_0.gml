@@ -7,5 +7,5 @@
 /// @DnDArgument : "y_relative" "1"
 /// @DnDArgument : "type" "4"
 /// @DnDArgument : "size" "1"
-/// @DnDArgument : "color" "$FF4C4C4C"
-effect_create_below(4, x + 53, y + 40, 1, $FF4C4C4C & $ffffff);
+/// @DnDArgument : "color" "$FF666666"
+effect_create_below(4, x + 53, y + 40, 1, $FF666666 & $ffffff);
